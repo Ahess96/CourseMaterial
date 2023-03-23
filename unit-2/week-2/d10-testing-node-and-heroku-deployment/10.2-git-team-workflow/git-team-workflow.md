@@ -285,7 +285,7 @@ as an outside contractor or freelancer._
 
 ## Project Workflow
 
-For project 3 the process we'll be following is a version of the feature branch workflow.
+For project 2 the process we'll be following is a version of the feature branch workflow.
 
 ### Initial Set Up
 
